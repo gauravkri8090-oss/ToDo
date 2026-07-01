@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    background: url("Screenshot\ 2026-01-30\ at\ 11.32.12\ AM.png");
+    background: url("./assets/background_img.png");
     background-size: cover;
     background-position: center;
 }
